@@ -1,0 +1,10 @@
+diff a/composer.json b/composer.json	(rejected hunks)
+@@ -30,7 +30,7 @@
+     },
+     "require": {
+         "php": "~7.0|~8.0",
+-        "guzzlehttp/guzzle": "^6.0"
++        "guzzlehttp/guzzle": "^7.0"
+     },
+     "require-dev": {
+       "phpunit/phpunit": "^6.4"
